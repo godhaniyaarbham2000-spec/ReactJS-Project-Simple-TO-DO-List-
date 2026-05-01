@@ -28,7 +28,7 @@ Built for practice, understanding React fundamentals, and portfolio showcase.
 
 ## 📂 Project Structure
 ```
-ReactJS-Simple-To-Do/
+ReactJS-Project-Simple-TO-DO-List/
 │
 ├── src/
 │   ├── App.jsx        # Main application logic
@@ -48,12 +48,12 @@ ReactJS-Simple-To-Do/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/react-simple-todo.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Simple-TO-DO-List.git
 ```
 
 ### 2. Move to project folder
 ```
-cd react-ReactJS-Simple-To-Do
+cd ReactJS-Project-Simple-TO-DO-List
 ```
 
 ### 3. Install dependencies
