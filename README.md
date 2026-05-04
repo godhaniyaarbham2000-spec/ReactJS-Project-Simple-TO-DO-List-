@@ -1,7 +1,7 @@
 # 📝 React Simple To-Do List Project
 
 A clean and minimal **React + Vite To-Do Application** with basic task management and **localStorage persistence**.  
-Built for practice, understanding React fundamentals, and portfolio showcase.
+Built for practice, understanding React fundamentals, and portfolio showcase. 
 
 ---
 
